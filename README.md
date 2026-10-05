@@ -1,11 +1,9 @@
 # CQ.66.CNTT-DORMEX
-# 🏠 Smart Dorm - Hệ thống Quản lý Ký túc xá Thông minh
-
-![Smart Dorm Banner](link-anh-banner-hoac-giao-dien-chinh.png)
-
+# 🏠 DORMEX - Hệ thống Quản lý Ký túc xá Thông minh
 > **Đồ án môn:** Thiết kế Web  
 > **Lớp:** CQ.66.CNTT - Trường Đại học Giao Thông Vận Tải Phân hiệu Thành phố Hồ Chí Minh - Khoa Công Nghệ Thông Tin  
-> **Giảng viên hướng dẫn:** Tiến sĩ. Trần Thị Dung  
+> **Giảng viên hướng dẫn:** TSi.Nguyễn Thiện Dương  
+link github: https://github.com/NgpkTam0910/CQ.66.CNTT-DORMEX.git
 
 ---
 
