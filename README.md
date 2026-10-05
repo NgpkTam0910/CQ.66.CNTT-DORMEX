@@ -58,8 +58,8 @@ smart-dorm/
 ## 👥 Thành viên thực hiện
 
 | MSSV | Họ và tên | Lớp | Vai trò / Công việc đảm nhận |
-| 6651071065 | Nguyễn Phúc Khai Tâm | CQ.66.CNTT | :--- |
-| 6651071058 | Lê Hồng Ngọc Quý | CQ.66CNTT |  |
-| 6651071078 | Nguyễn Trần Trung Tính | CQ.66.CNTT |  |
-| 6651071066 | Nguyễn Thanh Tâm | CQ.66.CNTT |  |
-| 6651071024 | Nguyễn Phạm Huy Hoàng | CQ.66.CNTT |  | chỗ README đọc thấy ok k
+| 6651071065 | Nguyễn Phúc Khai Tâm | CQ.66.CNTT | Lập Sign In, fix code |
+| 6651071058 | Lê Hồng Ngọc Quý | CQ.66CNTT | Thiết kế phần thanh toán kết hợp sự kiện |
+| 6651071078 | Nguyễn Trần Trung Tính | CQ.66.CNTT | Thiết kế phần trang chủ website và phòng ở của ký túc xá |
+| 6651071066 | Nguyễn Thanh Tâm | CQ.66.CNTT | Thiết kế nội quy và hoàn thiện sơ đồ ký túc xá |
+| 6651071024 | Nguyễn Phạm Huy Hoàng | CQ.66.CNTT | Thiết kế với nội dung thông báo các hoạt động và báo sửa chữa ký túc xá | 
